@@ -34,8 +34,8 @@ To get started with the Excel Dashboard, follow the steps below:
 
 ## **Screenshot**
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="screenshot/Dashboard.JPG" alt="Dashboard Overview" width="30%" style="border: 2px solid black; margin: 10px 0;" />
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="screenshot/Dashboard.JPG" alt="Dashboard Overview" width="100%" style="border: 2px solid black; margin: 10px 0;" />
 </div>
 
 ## **Contributing**
